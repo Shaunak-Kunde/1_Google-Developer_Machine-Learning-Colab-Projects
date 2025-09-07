@@ -1,54 +1,51 @@
-# Object-Oriented Programming in Python – Duke University
+# Google Machine Learning Crash Course – Colab Projects
 
-This project is part of the **Object-Oriented Programming in Python** course offered by Duke University. It is a guided, hands-on notebook designed to teach foundational OOP concepts through practical coding exercises and project implementations.
+These notebooks are part of my learning journey during the Google for Developers Machine Learning Crash Course, completed as part of the SkillsWallet SmartInternz Virtual Internship Program. The course offered a practical, hands-on introduction to machine learning with interactive visualizations, exercises, and Colab-based notebooks.
 
-## 🧠 Project Overview
+Unlike synthetic or preprocessed datasets from Kaggle, these exercises focus on building foundational ML skills, working with raw or real-world-like data, and applying machine learning concepts end-to-end.
 
-The project helps learners build strong software engineering foundations by teaching how to:
+# 📚 Projects / Notebooks
+<img width="496" height="282" alt="image" src="https://github.com/user-attachments/assets/1cf5a89b-0934-4df9-b4b8-9f0e02f4d803" />
 
-- Design and structure Python classes
-- Encapsulate data using objects
-- Apply principles of inheritance and polymorphism
-- Develop reusable and modular code
-- Apply real-world thinking in class-based design
+🚀 Key Learning Outcomes
 
-This Jupyter Notebook includes examples, exercises, and mini-projects that demonstrate effective object-oriented techniques in Python.
+Built regression and classification models from scratch, including linear and logistic regression.
 
-## 📂 File
+Explored data preprocessing for numerical and categorical data using techniques like one-hot encoding and feature transformations.
 
-- `project_1_oop_python_duke.ipynb` – Main Jupyter Notebook containing all OOP lessons, examples, and implementations.
+Understood dataset characteristics, generalization, and overfitting.
 
-## 📌 Topics Covered
+Learned neural networks, embeddings, and an introduction to large language models (LLMs).
 
-- **Classes and Objects**
-- **Attributes and Methods**
-- **Encapsulation**
-- **Inheritance**
-- **Polymorphism**
-- **Modular Design**
-- **Code Reuse and Refactoring**
+Explored production ML systems, AutoML, and responsible ML practices including fairness auditing.
 
-## 📚 Prerequisites
+# 🛠️ Tools & Libraries
 
-- Basic knowledge of Python syntax and control structures
-- Familiarity with Jupyter Notebooks
+Python 3.x
 
-## ▶️ Getting Started
+Google Colab
 
-1. Clone or download this repository.
-2. Open the notebook with JupyterLab, VS Code, or any compatible Jupyter environment.
-3. Follow the instructions and execute code cells sequentially to complete the exercises.
+NumPy, Pandas
 
-## 🚀 Learning Outcome
+Matplotlib, Seaborn
 
-By the end of this notebook, you'll be able to:
+Scikit-learn
 
-- Design classes that model real-world systems
-- Write clean, maintainable, and scalable Python code
-- Understand and apply the principles of OOP in software development
+# 📂 Repository Structure
+ML_Crash_Course_Projects/
+│── binary_classification_rice.ipynb
+│── fairness_income.ipynb
+│── linear_regression_taxi.ipynb
+│── numerical_data_bad_values.ipynb
+│── numerical_data_stats.ipynb
+│── README.md
 
-## 👨‍🏫 Instructor
+# 🔑 Notes
 
-This project is based on coursework provided by **Duke University**, hosted on platforms like Coursera.
+All notebooks were created and executed in Google Colab.
+
+Each notebook is self-contained, demonstrating a specific ML concept or workflow.
+
+These projects collectively showcase practical application of ML fundamentals using Python.
 
 ---
