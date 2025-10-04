@@ -1,6 +1,6 @@
 # Google Machine Learning Crash Course – Colab Projects
 
-These notebooks are part of my learning journey during the Google for Developers Machine Learning Crash Course, completed as part of the SkillsWallet SmartInternz Virtual Internship Program. The course offered a practical, hands-on introduction to machine learning with interactive visualizations, exercises, and Colab-based notebooks.
+These notebooks are part of my learning journey during the Google for Developers Machine Learning Crash Course, completed as part of the SkillsWallet SmartInternz Virtual Internship Program. The course offered a practical, hands-on introduction to machine learning with interactive visualizations, exercises and Colab-based notebooks.
 
 Unlike synthetic or preprocessed datasets from Kaggle, these exercises focus on building foundational ML skills, working with raw or real-world-like data, and applying machine learning concepts end-to-end.
 
@@ -19,13 +19,6 @@ Learned neural networks, embeddings, and an introduction to large language model
 
 Explored production ML systems, AutoML, and responsible ML practices including fairness auditing.
 
-# Google Machine Learning Crash Course – Colab Projects 📚
-
-These notebooks are part of my learning journey during the Google for Developers Machine Learning Crash Course, completed as part of the SkillsWallet SmartInternz Virtual Internship Program. The course offered a practical, hands-on introduction to machine learning with interactive visualizations, exercises, and Colab-based notebooks.
-
-Unlike synthetic or preprocessed datasets from Kaggle, these exercises focus on building foundational ML skills, working with raw or real-world-like data, and applying machine learning concepts end-to-end.
-
----
 
 ## 🚀 Projects / Notebooks
 
