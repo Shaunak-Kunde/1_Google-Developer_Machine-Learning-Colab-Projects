@@ -1,5 +1,7 @@
 # Google Machine Learning Crash Course – Colab Projects
 
+#Select path https://github.com/Shaunak-Kunde/1_Google-for-Developer_Machine-Learning-Colab-Projects/tree/main/ml/cc (Machine Learning Crash Course Labs Completed)
+
 These notebooks are part of my learning journey during the Google for Developers Machine Learning Crash Course, completed as part of the SkillsWallet SmartInternz Virtual Internship Program. The course offered a practical, hands-on introduction to machine learning with interactive visualizations, exercises and Colab-based notebooks.
 
 Unlike synthetic or preprocessed datasets from Kaggle, these exercises focus on building foundational ML skills, working with raw or real-world-like data, and applying machine learning concepts end-to-end.
